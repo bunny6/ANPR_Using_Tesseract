@@ -24,6 +24,11 @@ By using Yolov5 and tesseract, we can detect an object and extract the text from
 
 - PostgreSql.
 
+> Flow Chart 
+
+<img src="Documents/ANPR_TESSERACT.png">
+
+
 > Steps performed
 
 1 : Downloaded car images with number plates.
