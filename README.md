@@ -1,6 +1,6 @@
 # ANPR_Using_Tesseract
 
-> Introduction 
+# Introduction 
 
 Number plate authentication system is a full-fledged system for authentication of the cars using their number plates which can 
 have many real-world use cases. For example automated garage opening.
@@ -8,11 +8,11 @@ have many real-world use cases. For example automated garage opening.
 To ensure that the access must be given to the users who have registered their car’s number plate in the system.
 
 
-> Scope
+# Scope
 
 By using Yolov5 and tesseract, we can detect an object and extract the text from the object. This application can be used in many real-world cases such as the Entry gate of Society ,Offices, Colleges,etc.
 
-> Technologies used
+# Technologies used
 
 - Python.
 
@@ -24,12 +24,12 @@ By using Yolov5 and tesseract, we can detect an object and extract the text from
 
 - PostgreSql.
 
-> Flow Chart 
+# Flow Chart 
 
 <img src="Documents/ANPR_TESSERACT.png">
 
 
-> Steps performed
+# Steps performed
 
 1 : Downloaded car images with number plates.
     
